@@ -3,7 +3,7 @@
 **Blockchain & Web3 Developer · Building on Ethereum & Polygon · 3x Hackathon Winner**
 
 I build trustless systems — smart contracts, dApps, and on-chain infrastructure.
-100+ testnets & mainnets · DeFi protocols · IPFS · ERC-721 NFTs# Hey, I'm Yaswanth 👋
+100+ testnets & mainnets · DeFi protocols · IPFS · ERC-721 NFTs.
 
 **Blockchain & Web3 Developer · Building on Ethereum & Polygon · 3x Hackathon Winner**
 
