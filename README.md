@@ -117,7 +117,8 @@ with USDC stablecoins + anti-fraud smart contract logic baked in at the contract
 |---|---|---|
 | 🥈 | Runner-Up — National Level Blockchain Hackathon | Crypto Payment Gateway on Ethereum · 2024 |
 | 🥉 | 3rd Place — Binance Blockchain Yatra | Top 3 among 400+ participants · 2025 |
-| 🥉 | 3rd Prize — Piston Cup Hackathon @ VIIT | EduTrust · 85+ teams · 2025 |
+| 🥉 | 3rd Prize — Piston Cup Hackathon @ VIIT | EduTrust · 100+ teams · 2025 |
+| 🥇 | 3rd Prize — SUS Hacks 2026 | TrustDrop · NGO Fund Transparency on Polygon Amoy · 2026 |
 | 🌐 | 100+ testnets & mainnets | Ethereum, EVM chains, DeFi protocols |
 | 🏛️ | VP — Street Cause NGO, VIIT | Leading 30+ member volunteer team |
 
